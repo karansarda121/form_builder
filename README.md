@@ -28,7 +28,7 @@ npm (v7 or later)
 
 
 ## Clone the repository:
-git clone https://github.com/karansarda121/form-builder.git
+git clone  https://github.com/karansarda121/form_builder.git
 
 ## Navigate to the project directory:
  cd form-builder
